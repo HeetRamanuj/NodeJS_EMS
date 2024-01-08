@@ -39,11 +39,11 @@ the selected filter.
 ```
 ## Installation
 
-Install IPangramPractical with npm
+Install NodeJS_PMS with npm
 
 ```bash
   npm init
-  cd IPangramPractical
+  cd NodeJS_PMS
 ```
 
 ## Install packages
@@ -58,12 +58,6 @@ Install packages with npm
 ```bash
   nodemon server.js
 ```
-
-
-
-
-    
-
 
 ## API Reference
 
